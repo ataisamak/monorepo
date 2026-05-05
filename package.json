@@ -11,6 +11,7 @@
     "check": "pnpm --color run -r check"
   },
   "devDependencies": {
-    "@manypkg/cli": "^0.25.1"
+    "@manypkg/cli": "^0.25.1",
+    "syncpack": "14.0.0-alpha.41"
   }
 }
